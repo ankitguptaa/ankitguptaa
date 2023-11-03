@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ankitguptaa
 - 👀 I’m interested in Web Application Development
 - 🌱 I’m currently learning NESTJS
-- 💞️ I’m currently looking for remote opportunities
+- 💞️ I’m looking for remote opportunities
 - 📫 How to reach me:
   * **Mobile**: +91-9545830644
   * **Linkedin**: https://www.linkedin.com/in/ankitguptaaa/
@@ -16,12 +16,12 @@ Professional Experience:
 Skills:
 --------------------
 - MEAN Stack (MongoDB, Express.js, Angular, Node.js)
-- Frontend Technologies: HTML5, CSS3, JavaScript, TypeScript
-- Backend Technologies: RESTful APIs, WebSocket, GraphQL
+- Frontend Technologies: HTML5, CSS3, TypeScript, JavaScript
+- Backend Technologies: Node.js, Nest.js, RESTful APIs, WebSocket, GraphQL
 - Database Management: MongoDB, Sql Server
-- DevOps: Docker, Kubernetes, Jenkins, AWS, Azure
-- Version Control: Git, GitHub, GitLab
-- Code Analysis Tools: Veracode, SonarQube, Blackduck
+- DevOps: Docker, Kubernetes, Azure, AWS 
+- Version Control: Git, GitHub, Azure DevOps Git
+- Code Analysis Tools: Veracode, SonarQube, BlackDuck
 - Monitoring Tools: Splunk
 - SAFe and Scrum Experience.
 - Team Leadership and Mentoring
