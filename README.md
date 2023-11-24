@@ -32,8 +32,8 @@ Skills:
 
 Education:
 --------------------
-- Master of Science in Software Systems - BITS, PILANI - 2012-2014
-- Bachelor of Technology in Computer Science - AMITY UNIVERSITY, LUCKNOW - 2006-2010
+- Master of Science in Software Systems - Work Integrated - BITS, Pilani - 2012-2014
+- Bachelor of Technology in Computer Science - Regular - Amity University, Lucknow - 2006-2010
 
 Certifications:
 --------------------
