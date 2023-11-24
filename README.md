@@ -45,3 +45,9 @@ Awards and Recognitions:
 - Accenture Quarterly Best Individual Performer (2020 – Q1)
 - Accenture Quarterly Best Team (2020 – Q3)
 - IBM Client and Partner Success Award (2023 – Q1)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ankitguptaa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ankitguptaaa)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitguptaa)](https://github.com/ankitguptaa/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ankitguptaa&show_icons=true)  
