@@ -4,14 +4,18 @@
 - 💞️ I’m looking for remote opportunities
 - 📫 How to reach me:
   * **Mobile**: +91-9545830644
-  * **Linkedin**: https://www.linkedin.com/in/ankitguptaaa/
-  * **LeetCode**: https://leetcode.com/ankitguptaa/
+  * **E-mail**: ankitguptaa@hotmail.com
+    
+    
+[<img src='https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail.png' alt='github' height='40'>](https://github.com/ankitguptaa)  [<img src='https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/ankitguptaaa)  [<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg3_zUOTTVtG0oVsm36rwDXTDpFRwo6Q01J3vdQDE7&s' alt='linkedin' height='40'>](https://leetcode.com/ankitguptaa/)
+
  
 Professional Experience:
 --------------------
 - Software Consultant - IBM - Bengaluru, India - March 2021 to till date
 - Software Engineering Team Lead - Accenture - Bengaluru, India - October 2014 to March 2021
 - Senior Member Technical - ADP - Pune, India - Jul 2013 to Sep 2014
+- Software Engineer - Zensar Technologies - Jan 2011 to Jun 2013
 
 Skills:
 --------------------
@@ -46,8 +50,6 @@ Awards and Recognitions:
 - Accenture Quarterly Best Team (2020 – Q3)
 - IBM Client and Partner Success Award (2023 – Q1)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ankitguptaa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ankitguptaaa)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitguptaa)](https://github.com/ankitguptaa/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitguptaa)](https://github.com/ankitguptaa)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ankitguptaa&show_icons=true)  
