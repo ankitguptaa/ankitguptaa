@@ -52,6 +52,6 @@ Awards and Recognitions:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitguptaa)](https://github.com/ankitguptaa)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ankitguptaa&show_icons=true)  
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ankitguptaa&show_icons=true)  ](https://github-readme-stats.vercel.app/api?username=ankitguptaa&theme=transparent)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ankitguptaa?theme=dark&font=Sansita)
