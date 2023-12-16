@@ -46,9 +46,9 @@ Certifications:
 
 Awards and Recognitions:
 --------------------
+- IBM Client and Partner Success Award (2023 – Q1)
 - Accenture Quarterly Best Individual Performer (2020 – Q1)
 - Accenture Quarterly Best Team (2020 – Q3)
-- IBM Client and Partner Success Award (2023 – Q1)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitguptaa)](https://github.com/ankitguptaa)
 
