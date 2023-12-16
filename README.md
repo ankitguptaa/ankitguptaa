@@ -7,7 +7,7 @@
   * **E-mail**: ankitguptaa@hotmail.com
     
     
-(https://github.com/ankitguptaa)  [<img src='https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/ankitguptaaa)  [<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg3_zUOTTVtG0oVsm36rwDXTDpFRwo6Q01J3vdQDE7&s' alt='linkedin' height='40'>](https://leetcode.com/ankitguptaa/)
+[<img src='https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/ankitguptaaa)  [<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg3_zUOTTVtG0oVsm36rwDXTDpFRwo6Q01J3vdQDE7&s' alt='linkedin' height='40'>](https://leetcode.com/ankitguptaa/)
 
  
 Professional Experience:
