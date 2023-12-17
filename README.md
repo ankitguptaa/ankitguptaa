@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=ankitguptaa&color=green)
+
 - 👋 Hi, I’m @ankitguptaa
 - 👀 I’m interested in Web Application Development
 - 🌱 I’m currently learning NESTJS
