@@ -6,7 +6,8 @@
   * **Mobile**: +91-9545830644
   * **E-mail**: ankitguptaa@hotmail.com
 
-#### Tools and Languages I Know :
+Tools and Languages I Know:
+--------------------------
 <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
@@ -26,9 +27,12 @@
     <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" />
 </p>
     
-    
-[<img src='https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/ankitguptaaa)  [<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg3_zUOTTVtG0oVsm36rwDXTDpFRwo6Q01J3vdQDE7&s' alt='linkedin' height='40'>](https://leetcode.com/ankitguptaa/)
-
+Profiles:
+--------------------
+<p>
+[<img src='https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/ankitguptaaa)
+[<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg3_zUOTTVtG0oVsm36rwDXTDpFRwo6Q01J3vdQDE7&s' alt='linkedin' height='40'>](https://leetcode.com/ankitguptaa/)
+</p>p
  
 Professional Experience:
 --------------------
