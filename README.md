@@ -33,8 +33,8 @@ Tools and Languages I Know:
 Profiles:
 --------------------
 <p>
-<img src='https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png' alt='linkedin' height='40'>
-<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg3_zUOTTVtG0oVsm36rwDXTDpFRwo6Q01J3vdQDE7&s' alt='linkedin' height='40'>
+<a href="https://www.linkedin.com/in/ankitguptaaa" rel="link"><img src='https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png' alt='linkedin' height='40'>
+<a href="https://leetcode.com/ankitguptaa" rel="link"><img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg3_zUOTTVtG0oVsm36rwDXTDpFRwo6Q01J3vdQDE7&s' alt='leetcode' height='40'>
 </p>
  
 Professional Experience:
