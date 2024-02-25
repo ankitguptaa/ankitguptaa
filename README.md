@@ -41,8 +41,8 @@ Professional Experience:
 --------------------
 - Software Consultant - IBM - Bengaluru, India - March 2021 to till date
 - Software Engineering Team Lead - Accenture - Bengaluru, India - October 2014 to March 2021
-- Senior Member Technical - ADP - Pune, India - Jul 2013 to Sep 2014
-- Software Engineer - Zensar Technologies - Jan 2011 to Jun 2013
+- Senior Member Technical - ADP - Pune, India - July 2013 to September 2014
+- Software Engineer - Zensar Technologies - January 2011 to June 2013
 
 Skills:
 --------------------
