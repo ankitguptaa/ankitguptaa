@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @ankitguptaa
 - 👀 I’m interested in Web Application Development
-- 🌱 I’m currently learning NESTJS
+- 🌱 I’m currently learning Azure DevOps.
 - 💞️ I’m looking for remote opportunities
 - 📫 How to reach me:
   * **Mobile**: +91-9545830644
