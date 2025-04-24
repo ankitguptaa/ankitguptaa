@@ -64,6 +64,9 @@ Education:
 
 Certifications:
 --------------------
+- SC-900: Microsoft Certified: Security, Compliance, and Identity Fundamentals - 2025
+- AI-900: Microsoft Certified: Azure AI Fundamentals - 2025
+- DP-900: Microsoft Certified: Azure Data Fundamentals -2025
 - AWS Certified Cloud Practitioner - AWS - 2022
 - AZ-900: Microsoft Certified: Azure Fundamentals - Microsoft - 2020
 - Certified SAFe® 4 Agilist - SAFe - 2019
