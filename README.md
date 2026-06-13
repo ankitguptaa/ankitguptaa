@@ -1,65 +1,190 @@
-![](https://komarev.com/ghpvc/?username=ankitguptaa&color=green)
+# Hi there 👋 I'm Ankit Gupta
 
-- 👋 Hi, I’m @ankitguptaa
-- 👀 I’m interested in Web Application Development
-- 🌱 I’m currently learning Azure DevOps.
-- 💞️ I’m looking for remote opportunities
-- 📫 How to reach me:
-  * **Mobile**: +91-9545830644
-  * **E-mail**: ankitguptaa@hotmail.com
-  * **Portfolio**: https://ankitguptaa.github.io/
+![](https://komarev.com/ghpvc/?username=ankitguptaa\&color=green)
 
-Profiles:
---------------------
-<p>
-<a href="https://www.linkedin.com/in/ankitguptaaa" rel="link"><img src='https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png' alt='linkedin' height='40'>
-<a href="https://leetcode.com/ankitguptaa" rel="link"><img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg3_zUOTTVtG0oVsm36rwDXTDpFRwo6Q01J3vdQDE7&s' alt='leetcode' height='40'>
+<h3 align="center">
+Senior Technology Consultant | Azure Architect | AWS | Solution Architecture | TOGAF® Enterprise Architecture Foundation | AI-Assisted Engineering
+</h3>
+
+<p align="center">
+📍 Bengaluru, India • ☁️ Azure & AWS • 💻 .NET • 🏛️ TOGAF® Foundation Certified
 </p>
- 
-Professional Experience:
---------------------
-- Software Consultant - IBM - Bengaluru, India - March 2021 to till date
-- Software Engineering Team Lead - Accenture - Bengaluru, India - October 2014 to March 2021
-- Senior Member Technical - ADP - Pune, India - July 2013 to September 2014
-- Software Engineer - Zensar Technologies - January 2011 to June 2013
 
-Skills:
---------------------
-- MEAN Stack (MongoDB, Express.js, Angular, Node.js)
-- C#, .Net Framework
-- Frontend Technologies: HTML5, CSS3, TypeScript, JavaScript
-- Backend Technologies: Node.js, Nest.js, RESTful APIs, WebSocket, GraphQL
-- Database Management: MongoDB, Sql Server
-- DevOps: Docker, Kubernetes, Azure, AWS 
-- Version Control: Git, GitHub, Azure DevOps Git
-- Code Analysis Tools: Veracode, SonarQube, BlackDuck
-- Monitoring Tools: Splunk
-- SAFe and Scrum Experience.
-- Team Leadership and Mentoring
+---
 
-Education:
---------------------
-- Master of Science in Software Systems - Work Integrated - BITS, Pilani - 2012-2014
-- Bachelor of Technology in Computer Science - Regular - Amity University, Lucknow - 2006-2010
+## 🚀 About Me
 
-Certifications:
---------------------
-- SC-900: Microsoft Certified: Security, Compliance, and Identity Fundamentals - 2025
-- AI-900: Microsoft Certified: Azure AI Fundamentals - 2025
-- DP-900: Microsoft Certified: Azure Data Fundamentals -2025
-- AWS Certified Cloud Practitioner - AWS - 2022
-- AZ-900: Microsoft Certified: Azure Fundamentals - Microsoft - 2020
-- Certified SAFe® 4 Agilist - SAFe - 2019
-- Certified Scrum Master(CSM) - Scrum Alliance - 2017
-- 70-480: Programming in HTML5 and CSS3 - Microsoft - 2013
-- 70-515: Web Applications Development with Microsoft .NET Framework 4 - 2011
+* 💼 Senior Technology Consultant with **15+ years of experience**
+* ☁️ Specializing in **Azure, AWS, .NET, Microservices, Kubernetes, and DevOps**
+* 🏛️ TOGAF® Enterprise Architecture Foundation Certified
+* 🤖 Leveraging **GitHub Copilot, Cursor AI, and Amazon Q** for AI-assisted engineering
+* 🚀 Passionate about Solution Architecture and Cloud-Native Applications
+* 📚 Continuously learning Enterprise Architecture and AI Engineering
+* 🌍 Open to Remote, Hybrid and International opportunities
 
-Awards and Recognitions:
---------------------
-- IBM Client and Partner Success Award (2023 – Q1)
-- Accenture Quarterly Best Individual Performer (2020 – Q1)
-- Accenture Quarterly Best Team (2020 – Q3)
+---
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ankitguptaa&show_icons=true)  ](https://github-readme-stats.vercel.app/api?username=ankitguptaa&theme=transparent)
+## 📫 Connect With Me
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/ankitguptaa?theme=dark&font=Sansita)
+* 📱 **Mobile:** +91-9545830644
+* 📧 **Email:** [ankitguptaa@hotmail.com](mailto:ankitguptaa@hotmail.com)
+* 🌐 **Portfolio:** https://ankitguptaa.github.io/
+
+---
+
+## 🌐 Professional Profiles
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/ankitguptaaa">
+<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40"/>
+</a>
+
+  
+
+<a href="https://github.com/ankitguptaa">
+<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="40"/>
+</a>
+
+  
+
+<a href="https://leetcode.com/ankitguptaa">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40"/>
+</a>
+
+  
+
+<a href="https://learn.microsoft.com/en-in/users/ankitguptaa/">
+<img src="https://cdn.worldvectorlogo.com/logos/microsoft-5.svg" height="40"/>
+</a>
+
+  
+
+<a href="https://www.credly.com/users/ankit-gupta.2d5664b8">
+<img src="https://images.credly.com/images/0c7f6a1e-3df5-4d79-8d3f-1b1f5f7f3d88/blob.png" height="40"/>
+</a>
+
+</p>
+
+---
+
+## 💼 Professional Experience
+
+### IBM India Pvt Ltd
+
+**Senior Consultant**
+📍 Bengaluru, India | **Mar 2021 – Present**
+
+### Accenture Solutions Pvt Ltd
+
+**Software Engineering Team Lead**
+📍 Bengaluru, India | **Oct 2014 – Feb 2021**
+
+### Automatic Data Processing (ADP)
+
+**Senior Member Technical**
+📍 Pune, India | **Jul 2013 – Sep 2014**
+
+### Zensar Technologies
+
+**Senior Software Engineer**
+📍 Pune, India | **Jan 2011 – Jul 2013**
+
+---
+
+## 🛠 Tech Stack
+
+### ☁️ Cloud
+
+`Azure` `AWS`
+
+### 💻 Languages & Frameworks
+
+`C#` `.NET Core` `ASP.NET Core` `Node.js` `JavaScript` `TypeScript`
+
+### 🎨 Frontend
+
+`Angular` `AngularJS` `React`
+
+### 🗄 Databases
+
+`SQL Server` `MongoDB` `DynamoDB`
+
+### ⚙️ DevOps & Containers
+
+`Azure DevOps` `Terraform` `Docker` `Kubernetes` `GitHub Actions`
+
+### 🔗 Integration
+
+`REST APIs` `GraphQL` `Kafka` `RabbitMQ` `Azure Service Bus`
+
+### 🔒 Security & Quality
+
+`SonarQube` `Veracode` `Prisma Cloud` `Black Duck`
+
+### 📊 Monitoring
+
+`Splunk` `Datadog` `Application Insights`
+
+### 🤖 AI-Assisted Engineering
+
+`GitHub Copilot` `Cursor AI` `Amazon Q`
+
+---
+
+## 🎓 Education
+
+### Birla Institute of Technology and Science (BITS Pilani)
+
+**Master of Science in Software Systems**
+2012 – 2014
+
+### Amity University, Lucknow
+
+**Bachelor of Technology in Computer Science**
+2006 – 2010
+
+---
+
+## 🏅 Certifications
+
+* ⭐ TOGAF® Enterprise Architecture Foundation – The Open Group – 2026
+* Microsoft Certified: Azure Developer Associate (AZ-204) – 2025
+* Microsoft Certified: Security, Compliance and Identity Fundamentals (SC-900) – 2025
+* Microsoft Certified: Azure Data Fundamentals (DP-900) – 2024
+* Microsoft Certified: Azure AI Fundamentals (AI-900) – 2024
+* AWS Certified Cloud Practitioner – 2022
+* Microsoft Certified: Azure Fundamentals (AZ-900) – 2020
+* Certified SAFe® 4 Agilist – 2019
+* Certified Scrum Master (CSM) – 2017
+* Microsoft 70-480 – HTML5 and CSS3 – 2013
+* Microsoft 70-515 – .NET Framework 4 – 2011
+
+---
+
+## 🏆 Awards & Recognition
+
+* 🥇 IBM Client and Partner Success Award (2023 Q1)
+* 🏅 Accenture Quarterly Best Individual Performer (2020 Q1)
+* 🏅 Accenture Quarterly Best Team Award (2020 Q3)
+
+---
+
+## 🎯 Current Focus
+
+* Enterprise Architecture (TOGAF)
+* Solution Architecture
+* Cloud-Native Applications
+* Microservices
+* DevSecOps
+* Infrastructure as Code (Terraform)
+* AI-Assisted Software Engineering
+* Distributed Systems
+
+---
+
+<h3 align="center">
+
+⭐ Building scalable cloud-native solutions and evolving toward Enterprise & Solution Architecture.
+
+</h3>
